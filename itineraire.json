@@ -1,0 +1,166 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🏛️",
+  "titre": "Échappée relaxante et minérale au cœur des Sassi de Matera",
+  "budget_total": "Environ 220 €/personne",
+  "duree": "1 jour",
+  "date_debut": "2027-03-13",
+  "date_fin": "2027-03-13",
+  "temps_vol": "4h30 (depuis Nantes, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "✨",
+      "titre": "Douceur troglodytique et détente thermale",
+      "legende": "Arrivez en douceur dans la cité millénaire de Matera pour une immersion sereine au milieu des habitations troglodytiques.\nParcourez les ruelles plates et les terrasses de tuf calcaire pour contempler l’incroyable amphithéâtre minéral sans vous presser.\nOffrez-vous un moment de relaxation absolue dans les eaux tièdes d’un spa creusé au cœur de la roche.\nTerminez cette escapade en savourant les spécialités de Basilicate face aux lumières dorées du crépuscule.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🚶‍♂️ Promenade contemplative au belvédère</strong> : Parcourez tranquillement les balcons panoramiques de la place Pascoli pour admirer la cité de calcaire sans effort physique.",
+        "<strong>🛁 Bains relaxants dans un spa troglodytique</strong> : Délassez-vous dans les bassins tièdes et les galeries tamisées d'un ancien bain romain souterrain creusé à même la roche."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Belvedere di Piazza Giovanni Pascoli, Matera",
+          "categorie": "Panorama",
+          "coords": {
+            "lat": 40.6635,
+            "lng": 16.6102
+          }
+        },
+        {
+          "nom_recherche": "Locanda di San Martino Thermae, Matera",
+          "categorie": "Thermes",
+          "coords": {
+            "lat": 40.6685,
+            "lng": 16.6095
+          }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Chaussures plates conseillées",
+          "texte": "Les pavés en pierre calcaire sont polis par les siècles et peuvent être glissants même sans pluie."
+        },
+        {
+          "symbole": "🚌",
+          "titre": "Navette aéroport",
+          "texte": "Des bus directs relient l'aéroport de Bari Palese au centre de Matera en 1h15 environ."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 126 €/pers",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "25 €/pers (navette A/R Bari-Matera)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "35 €/pers",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "0 €/pers (escapade à la journée)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "34 €/pers (accès spa troglodytique)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Avril à Juin",
+      "symbole": "🌸"
+    },
+    {
+      "titre": "Septembre à Octobre",
+      "symbole": "🍂"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "En mars, les températures oscillent entre 8 et 15°C. Une veste coupe-vent légère et confortable est idéale.",
+      "symbole": "🌤️"
+    },
+    {
+      "titre": "Paiement par carte bancaire largement accepté dans les restaurants, cafés et thermes de la ville.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Réseau piétonnier prédominant dans les Sassi, la circulation automobile y est très strictement régulée.",
+      "symbole": "🚶"
+    },
+    {
+      "titre": "Excellente couverture 4G/5G dans toute la ville et les espaces troglodytiques aménagés.",
+      "symbole": "📶"
+    }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "De la honte au chef-d'œuvre",
+      "texte": "Considérée dans les années 1950 comme la honte nationale en raison de la pauvreté extrême de ses cavernes, Matera a été évacuée avant d'être réhabilitée avec brio jusqu'à devenir Capitale Européenne de la Culture."
+    },
+    {
+      "symbole": "🎬",
+      "titre": "La Jérusalem du cinéma",
+      "texte": "Son paysage minéral semblant figé hors du temps est si saisissant que Mel Gibson y a tourné La Passion du Christ pour figurer la Judée antique sans nécessiter aucun décor artificiel."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍞",
+      "titre": "Pane di Matera IGP",
+      "texte": "Pain rustique ancestral à base de semoule de blé dur locale, façonné en forme de crête rocheuse avec une croûte épaisse et une mie alvéolée parfumée."
+    },
+    {
+      "symbole": "🌶️",
+      "titre": "Peperoni Cruschi",
+      "texte": "Poivrons doux séchés au soleil puis saisis quelques secondes dans l'huile d'olive bouillante pour obtenir un croustillant aérien incomparable."
+    },
+    {
+      "symbole": "🍲",
+      "titre": "Crapiata Materana",
+      "texte": "Savoureuse soupe paysanne héritée des récoltes partagées, mitonnée lentement avec une grande diversité de légumineuses et de céréales."
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/NTE-BRI/2027-03-13/2027-03-13",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Office de Tourisme",
+      "titre": "Matera Welcome",
+      "url": "https://www.materawelcome.it",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Transports aéroport",
+      "titre": "Aeroporti di Puglia",
+      "url": "https://www.aeroportidipuglia.it",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Meteo AM",
+      "url": "https://www.meteoam.it",
+      "symbole": "🌤️"
+    }
+  ]
+}
